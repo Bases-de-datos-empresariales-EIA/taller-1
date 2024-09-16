@@ -19,9 +19,8 @@
 
 3. Calcula el ingreso total por hectárea de cada finca, usando la fórmula:
 
-   \[
-   \text{Ingreso por hectárea} = \frac{\text{Ingreso total de la finca}}{\text{Tamaño en hectáreas de la finca}}
-   \]
+`Ingreso por hectárea = Ingreso total de la finca / Tamaño en hectáreas de la finca`
+
 
 **Análisis**
 
@@ -60,9 +59,9 @@ Al final de los ejercicios, los estudiantes deberán preparar un informe que inc
 #### Seccion 1:
 1. **Código del query y resultado** (15%)
 2. **Análisis técnico**: Explica cómo llegaste al query específico, incluyendo cualquier decisión técnica (15%)
-3. **Análisis de negocio**: Máximo de 1000 palabras por pregunta (20%)
+3. **Análisis de negocio**: Máximo de 500 palabras por pregunta (20%)
 
 #### Seccion 2:
 1. **Código del query y resultado** (15%)
 2. **Análisis técnico**: Explica cómo llegaste al query específico, incluyendo cualquier decisión técnica (15%)
-3. **Análisis de negocio**: Máximo de 1000 palabras por pregunta (20%)
+3. **Análisis de negocio**: Máximo de 500 palabras por pregunta (20%)
