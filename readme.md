@@ -9,7 +9,7 @@
 
 ---
 
-### Query 1: Comparar la eficiencia de las fincas en términos de ingreso por hectárea.
+### **Query 1: Comparar la eficiencia de las fincas en términos de ingreso por hectárea**
 
 **Instrucciones específicas**:
 
@@ -25,6 +25,44 @@
 
 **Análisis**
 
-Realiza un análisis de negocio de este query:
+Realiza un análisis de negocio de este query. Puedes basarte en estas preguntas para tu análisis:
    - ¿Cómo pueden los administradores de las fincas utilizar este resultado para mejorar la eficiencia de su operación?
    - ¿Qué impacto tiene este análisis en la toma de decisiones relacionadas con el manejo del cultivo o la expansión de la finca?
+
+---
+
+### **Query 2: Comparar el desempeño de los usuarios en términos de recogida vs. el promedio general del lote**
+
+**Instrucciones específicas**:
+
+1. Calcula el promedio de la cantidad de producto recogido en cada lote. El promedio debe ser calculado usando todos los datos de recogida de ese lote.
+
+2. Calcula la diferencia entre la cantidad recogida por cada usuario en un lote y el promedio general de ese lote.
+
+3. Filtra los usuarios que hayan superado el promedio de recogida del lote en más de 1100 ocasiones.
+
+4. Ordena los usuarios por el número total de veces que han superado el promedio de recogida del lote.
+
+**Análisis**
+
+Realiza un análisis de negocio de este query. Puedes basarte en estas preguntas para tu análisis:
+   - ¿Cómo pueden los administradores de las fincas utilizar esta información para identificar a los trabajadores más productivos?
+   - ¿Qué tipo de estrategias podrían implementarse para incentivar a los trabajadores que consistentemente superan el promedio de recogida?
+   - ¿Qué impacto tiene este análisis en la toma de decisiones relacionadas con la gestión del personal y la asignación de recursos?
+
+---
+
+### **Informe Final y calificación:**
+
+Al final de los ejercicios, los estudiantes deberán preparar un informe que incluya los siguientes puntos para cada query:
+
+
+#### Seccion 1:
+1. **Código del query y resultado** (15%)
+2. **Análisis técnico**: Explica cómo llegaste al query específico, incluyendo cualquier decisión técnica (15%)
+3. **Análisis de negocio**: Máximo de 1000 palabras por pregunta (20%)
+
+#### Seccion 2:
+1. **Código del query y resultado** (15%)
+2. **Análisis técnico**: Explica cómo llegaste al query específico, incluyendo cualquier decisión técnica (15%)
+3. **Análisis de negocio**: Máximo de 1000 palabras por pregunta (20%)
