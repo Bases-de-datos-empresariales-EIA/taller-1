@@ -38,9 +38,7 @@ Realiza un análisis de negocio de este query. Puedes basarte en estas preguntas
 
 2. Calcula la diferencia entre la cantidad recogida por cada usuario en un lote y el promedio general de ese lote.
 
-3. Filtra los usuarios que hayan superado el promedio de recogida del lote en más de 1100 ocasiones.
-
-4. Ordena los usuarios por el número total de veces que han superado el promedio de recogida del lote.
+3. Filtra el top 5 de usuarios que más veces hayan superado el promedio de recogida del lote.
 
 **Análisis**
 
@@ -56,12 +54,12 @@ Realiza un análisis de negocio de este query. Puedes basarte en estas preguntas
 Al final de los ejercicios, los estudiantes deberán preparar un informe que incluya los siguientes puntos para cada query:
 
 
-#### Seccion 1:
+#### Sección 1:
 1. **Código del query y resultado** (15%)
 2. **Análisis técnico**: Explica cómo llegaste al query específico, incluyendo cualquier decisión técnica (15%)
 3. **Análisis de negocio**: Máximo de 500 palabras por pregunta (20%)
 
-#### Seccion 2:
+#### Sección 2:
 1. **Código del query y resultado** (15%)
 2. **Análisis técnico**: Explica cómo llegaste al query específico, incluyendo cualquier decisión técnica (15%)
 3. **Análisis de negocio**: Máximo de 500 palabras por pregunta (20%)
