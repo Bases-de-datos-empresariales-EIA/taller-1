@@ -2,9 +2,9 @@
 
 **Objetivo**: Los estudiantes deberán realizar consultas avanzadas utilizando las vistas y tablas del esquema `cultivo_extendido`. Cada consulta incluirá una explicación técnica, el resultado explícito y un análisis de negocio relacionado con el query.
 
-**Instrucciones**: 
+**Instrucciones por cada sección**: 
 1. Explica por qué realizaste el query de esa manera (incluyendo cualquier decisión técnica o elección de funciones).
-2. Incluye el resultado explícito del query.
+2. Incluye el resultado explícito del query y el código del query.
 3. Realiza un análisis de negocio sobre lo que este query nos revela y cómo puede ser útil para la toma de decisiones en la empresa.
 
 ---
