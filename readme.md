@@ -13,7 +13,7 @@
 
 **Instrucciones específicas**:
 
-1. Calcula el ingreso total de cada finca en función de las cantidades recogidas y los precios por cultivo en el mes en que se realizó la recogida. El ingreso se calcula multiplicando la cantidad recogida por el precio del cultivo que se recogió en el mes que se dio esa recogida.
+1. Calcula el ingreso total de cada finca en función de las cantidades recogidas y los precios por cultivo en el mes en que se realizó la recogida. El ingreso se calcula multiplicando la cantidad recogida por el precio del cultivo que se recogió, en el mes que se dio esa recogida.
 
 2. Calcula el tamaño de cada finca. Puedes asumir que cada lote mide 4 hectáreas.
 
