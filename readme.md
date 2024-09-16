@@ -1,4 +1,4 @@
-**Taller de Consultas SQL Avanzadas**
+# Taller de Consultas SQL Avanzadas
 
 **Objetivo**: Los estudiantes deberán realizar consultas avanzadas utilizando las vistas y tablas del esquema `cultivo_extendido`. Cada consulta incluirá una explicación técnica, el resultado explícito y un análisis de negocio relacionado con el query.
 
@@ -23,7 +23,7 @@
    \text{Ingreso por hectárea} = \frac{\text{Ingreso total de la finca}}{\text{Tamaño en hectáreas de la finca}}
    \]
 
-** Análisis **
+**Análisis**
 
 Realiza un análisis de negocio de este query:
    - ¿Cómo pueden los administradores de las fincas utilizar este resultado para mejorar la eficiencia de su operación?
